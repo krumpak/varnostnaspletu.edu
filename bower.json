@@ -1,0 +1,23 @@
+{
+  "name": "varnostnaspletu",
+  "homepage": "varnostnaspletu",
+  "authors": [
+    "Gorazd Krumpak"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "sass-bootstrap-glyphicons": "^1.0.0",
+    "components-font-awesome": "^4.6.3"
+  }
+}
